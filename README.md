@@ -1,3 +1,5 @@
+# THIS PACKAGE IS NO LONGER MAINTANED!
+
 # babel-preset-sevencooks [![](https://img.shields.io/npm/v/babel-preset-sevencooks.svg)](https://www.npmjs.com/package/babel-preset-sevencooks) [![](https://img.shields.io/npm/dm/babel-preset-sevencooks.svg)](https://www.npmjs.com/package/babel-preset-sevencooks) [![Dependency Status](https://david-dm.org/sevencooks-gmbh-co-kg/babel-preset-sevencooks.svg)](https://david-dm.org/sevencooks-gmbh-co-kg/babel-preset-sevencooks?branch=master)
 
 This package includes the Babel preset used by SevenCooks GmbH & Co. KG.<br>
